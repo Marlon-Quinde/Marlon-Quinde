@@ -34,6 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marlon-Quinde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlon-quinde&show_icons=true&locale=en" alt="marlon-quinde" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlon-quinde&theme=dark" alt="marlon-quinde" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlon-quinde&theme=dark" alt="marlon-quinde" /></div>
