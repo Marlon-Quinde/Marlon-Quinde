@@ -69,6 +69,10 @@
 
 ###
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlon-quinde" alt="marlon-quinde" /></a> </p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/snake.svg" alt="Snake animation" />
