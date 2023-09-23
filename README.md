@@ -66,12 +66,12 @@
 ###
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlon-quinde&theme=dark" alt="marlon-quinde" /> &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlon-quinde" alt="marlon-quinde" /></a>
+  
 </div>
 
 ###
 
-<p align="center">  </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlon-quinde" alt="marlon-quinde" /></a>  </p>
 
 ###
 
