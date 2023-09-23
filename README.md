@@ -26,13 +26,15 @@
 
 ###
 
+
+###
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/1234543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1234543" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marlon-quinde-89735a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marlon-quinde-89735a217/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/marlon.quinde.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marlon" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marlon_quinde_cordova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qr41234" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marlon-Quinde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marlon-Quinde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 <h3 align="left">Languages and Tools:</h3>
