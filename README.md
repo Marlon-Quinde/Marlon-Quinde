@@ -51,3 +51,11 @@
 ###
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlon-quinde&theme=dark" alt="marlon-quinde" /></div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/snake.svg" alt="Snake animation" />
+
+###
