@@ -13,7 +13,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marlon-quinde&label=Visitas&color=0e75b6&style=plastic" alt="marlon-quinde" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlon-quinde" alt="marlon-quinde" /></a> </p>
 
 - 🔭 I’m currently working on **Viamatica**
 
