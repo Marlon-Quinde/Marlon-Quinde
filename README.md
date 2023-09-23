@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marlon Quinde</h1>
 <h3 align="center">A passionate fullstack developer from Ecuador</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marlon-quinde&label=Visitas&color=0e75b6&style=plastic" alt="marlon-quinde" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marlon-quinde&label=Visitas&color=0e75b6&style=plastic" alt="marlon-quinde" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlon-quinde" alt="marlon-quinde" /></a> </p>
 
@@ -32,11 +32,13 @@
   <a href="https://www.facebook.com/marlon.quinde.9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/marlon_quinde_cordova/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="marlon.quin.cor@outlook.es" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/marlon-quinde-89735a217/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="www.mrcq2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
