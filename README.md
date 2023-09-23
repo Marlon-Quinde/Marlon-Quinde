@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Marlon Quinde</h1>
-###
 
 <h3 align="center">A passionate fullstack developer from Ecuador</h3>
 
