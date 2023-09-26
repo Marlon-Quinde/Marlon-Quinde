@@ -25,6 +25,8 @@
 
 📫 How to reach me **facebook, outlook, gmail**
 
+⚡️ Fun fact **I like cats**
+
 ###
 
 <div align="center">
