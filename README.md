@@ -4,9 +4,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="200" /> 
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -73,10 +73,4 @@
   
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/snake.svg" alt="Snake animation" />
-
-###
