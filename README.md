@@ -13,18 +13,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marlon-quinde&label=Visitas&color=0e75b6&style=plastic" alt="marlon-quinde" /> </p>
 
+###
 
-- 🔭 I’m currently working on **Viamatica**
+👩‍💻 I'm currently working on **Viamatica**
 
-- 🌱 I’m currently learning **Node, React, React Native**
+🧠 I'm currently learning **React Native & Node**
 
-- 👯 I’m looking to collaborate on **more development proyects**
+👯‍♀️ I'm looking to collaborate on many **projects**
 
-- 👨‍💻 All of my projects are available at [INCOMING](INCOMING)
+💬 Ask me about **Angular, React Native & Node**
 
-- 💬 Ask me about **Angular, Node, React**
-
-- 📫 How to reach me **marlon.quin.cor@outlook.es**
+📫 How to reach me **facebook, outlook, gmail**
 
 ###
 
