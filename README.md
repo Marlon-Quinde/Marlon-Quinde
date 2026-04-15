@@ -23,24 +23,29 @@
 
 ---
 
-## Perfil / Profile
+## 👨‍💻 Profile
 
-Soy desarrollador Full Stack con experiencia en frontend, backend y mobile. Me enfoco en crear soluciones mantenibles, APIs limpias y buenas practicas de arquitectura.
+I am a Full Stack Developer focused on creating reliable products from idea to production.
+I enjoy building clean user experiences, robust APIs, and maintainable architectures.
 
-I am a Full Stack Developer with hands-on experience in frontend, backend, and mobile development. I focus on maintainable solutions, clean APIs, and solid engineering practices.
-
----
-
-## Enfoque Profesional / Professional Focus
-
-- Desarrollo de aplicaciones web y moviles escalables.
-- Integracion de frontend moderno con APIs y microservicios.
-- Trabajo con CI/CD, Docker y flujos de entrega continua.
-- Collaborating with teams to deliver reliable, production-ready software.
+- 🚀 Currently working at **Viamatica S.A.**
+- 🧠 Continuously learning **React Native, Node.js, and cloud-native development**
+- 🤝 Open to collaboration on **web, mobile, and backend projects**
+- 🎯 Strong focus on **code quality, scalability, and delivery speed**
 
 ---
 
-## Languages and Tools
+## 💼 Professional Highlights
+
+- 🧩 Design and implementation of modular frontend architectures with Angular and React.
+- ⚙️ Development of backend services and REST APIs with Node.js and .NET.
+- 🐳 Experience with Docker-based workflows and CI/CD pipelines.
+- 📈 Product mindset: turning technical requirements into business value.
+- 👥 Team collaboration with clear communication and ownership.
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,tailwind,bootstrap,ionic,nodejs,express,dotnet,mysql,postgres,mongodb,redis,git,docker,linux,jenkins" alt="Languages and Tools" />
@@ -48,7 +53,7 @@ I am a Full Stack Developer with hands-on experience in frontend, backend, and m
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marlon-Quinde&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub stats" />
@@ -61,10 +66,20 @@ I am a Full Stack Developer with hands-on experience in frontend, backend, and m
 
 ---
 
-## Contributions
+## 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Marlon-Quinde/Marlon-Quinde/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+## 📬 Let's Connect
+
+If you are hiring or building something interesting, feel free to reach out.
+
+- LinkedIn: [marlon-quinde-89735a217](https://www.linkedin.com/in/marlon-quinde-89735a217/)
+- Email: [marlon.quin.cor@outlook.es](mailto:marlon.quin.cor@outlook.es)
+- Email: [mrcq2000@gmail.com](mailto:mrcq2000@gmail.com)
