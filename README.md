@@ -25,10 +25,10 @@
 
 ## 👨‍💻 Profile
 
-I am a Full Stack Developer focused on creating reliable products from idea to production.
+I'm a Full Stack Developer focused on creating reliable products from idea to production.
 I enjoy building clean user experiences, robust APIs, and maintainable architectures.
 
-- 🚀 Currently working at **Viamatica S.A.**
+- 🚀 Currently working at **Banco Guayaquil**
 - 🧠 Continuously learning **React Native, Node.js, and cloud-native development**
 - 🤝 Open to collaboration on **web, mobile, and backend projects**
 - 🎯 Strong focus on **code quality, scalability, and delivery speed**
@@ -78,7 +78,7 @@ I enjoy building clean user experiences, robust APIs, and maintainable architect
 
 ## 📬 Let's Connect
 
-If you are hiring or building something interesting, feel free to reach out.
+If you're hiring or building something interesting, feel free to reach out.
 
 - LinkedIn: [marlon-quinde-89735a217](https://www.linkedin.com/in/marlon-quinde-89735a217/)
 - Email: [marlon.quin.cor@outlook.es](mailto:marlon.quin.cor@outlook.es)
